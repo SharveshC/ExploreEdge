@@ -111,12 +111,6 @@ We welcome contributions to improve Explore Edge! Here's how you can help:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📧 Contact
-
-For any inquiries or support, please contact the project maintainers:
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub Profile]
-- **Website**: [Your Website]
 
 ## 🙏 Acknowledgments
 - Thanks to all contributors who have helped with this project
