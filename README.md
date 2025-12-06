@@ -111,8 +111,20 @@ We welcome contributions to improve Explore Edge! Here's how you can help:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 📧 Contact
+
+For any inquiries or support, please contact the project maintainers:
+- **Email**: [Your Email]
+- **GitHub**: [Your GitHub Profile]
+- **Website**: [Your Website]
 
 ## 🙏 Acknowledgments
 - Thanks to all contributors who have helped with this project
 - Special thanks to the open-source community for the amazing tools and libraries
 - Inspiration from leading travel platforms
+
+## 👥 Contributors
+
+A big thank you to all the amazing people who have contributed to this project:
+
+- [Dakshin](https://github.com/Dakshin10) - Contributor
